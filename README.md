@@ -27,7 +27,7 @@
   Nodejs, Inquirer, and FS
   
   ## Video
-  [![https://github.com/dmoloney5/RUT-WEEK10-Teams-Info/blob/main/image/youtube.jpg](https://https://youtu.be/NERiwwTPKS0)
+  [![https://github.com/dmoloney5/RUT-WEEK10-Teams-Info/blob/main/image/youtube.jpg](https://youtu.be/NERiwwTPKS0)
 
   ## ScreenShot
   ![screenshot](https://github.com/dmoloney5/RUT-WEEK10-Teams-Info/blob/main/image/My%20Team1.jpg)
