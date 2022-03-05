@@ -24,10 +24,10 @@
 
   ## License
   ### The following apps were used: 
-  Nodejs, Util, Inquirer, and FS
+  Nodejs, Inquirer, and FS
   
   ## Video
-  [!](./youtube.jpg)](https://https://youtu.be/NERiwwTPKS0)
+  ![YouTube](https://https://youtu.be/NERiwwTPKS0)
 
   ## ScreenShot
-  ![screenshot](https://github.com/dmoloney5/RUT-WEEK10-Teams-Info/blob/main/image/My%20Team.jpg)
+  ![screenshot](https://github.com/dmoloney5/RUT-WEEK10-Teams-Info/blob/main/image/My%20Team1.jpg)
