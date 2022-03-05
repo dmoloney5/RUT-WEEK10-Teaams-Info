@@ -24,7 +24,7 @@
 
   ## License
   ### The following apps were used: 
-  Nodejs, Inquirer, and FS
+  Nodejs, Inquirer, JEST, and FS
   
   ## Video
   [YouTube](https://youtu.be/NERiwwTPKS0)
